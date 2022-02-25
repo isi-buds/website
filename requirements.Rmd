@@ -1,0 +1,32 @@
+---
+title: "Requirements"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+
+
+Applicants must 
+
+- Be an undergraduate student at the time of the institute. 
+- Be US citizen or permanent resident
+- Have knowledge of and interest in computing, probability, calculus, and linear algebra. These prerequisites are flexible. 
+- Have interest in scientific questions
+- GPA???
+
+## Requirements for the 2022 program
+
+Participants will be required to follow COVID-19 related regulations of the University of California Irvine, including proof of vaccination. 
+
+
+## Application Form 
+
+Applicants will be asked to submit the following along with their application form.
+
+- A personal statement of interest
+- Unofficial college transcripts
+- A letter of recommendation

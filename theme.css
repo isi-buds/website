@@ -1,0 +1,34 @@
+*{
+ font-size: 100%;
+ font-family: Helvetica;
+}
+
+
+html {
+  /*-- Main font sizes --*/
+  --title-size:      50px;
+  --body-size:       1.06rem;
+  --code-size:       14px;
+  --aside-size:      12px;
+  --fig-cap-size:    13px;
+}
+
+
+
+.distill-site-header {
+  --title-size:       18px;    
+  --text-color:       whitesmoke; /* edited */
+  --text-size:        15px;
+  --hover-color:      whitesmoke; /* edited */
+  --bkgd-color:       #9c1e03; /* edited */
+}
+
+
+hr{
+  border: 1px solid #fc917a;
+
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}

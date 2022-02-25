@@ -1,0 +1,33 @@
+---
+title: "ISI-BUDS"
+description: |
+  Irvine Summer Institute in Biostatistics and Undergraduate Data Science
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+PHOTO
+
+ISI-BUDS is a six-week summer program in biostatistics and biomedical data science. 
+
+More info about the program content.
+More info about financial support.
+
+
+Check [requirements](requirements.html) to see if you qualify for the program. If you do, you may submit your [application](). We strongly encourage applications from .....
+
+## Important Dates
+
+
+
+

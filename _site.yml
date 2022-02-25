@@ -1,0 +1,16 @@
+name: "website12"
+title: "ISI-BUDS"
+theme: theme.css
+description: |
+  ISI-BUDS
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Requirements"
+      href: requirements.html
+    - text: "FAQ"
+      href: faq.html
+  
+output: distill::distill_article

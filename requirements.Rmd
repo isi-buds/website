@@ -1,5 +1,5 @@
 ---
-title: "Requirements"
+title: "Eligibility"
 site: distill::distill_website
 ---
 
@@ -17,18 +17,15 @@ Applicants must
 - Have knowledge of and interest in statistics, computing, probability, calculus, and linear algebra. These prerequisites are flexible. 
 - Have interest in using empirical data to answer scientific questions.
 
-<!--GPA-->
-
-## Requirements for the 2022 program
-
 Participants will be required to follow COVID-19 related regulations of the University of California Irvine, including proof of vaccination. 
 
+<!--GPA maybe will add later-->
 
 ## Application Form 
 
-Applicants will be asked to submit the following along with their application form.
+Please fill out the following application form: (link here). The application form  will ask you to 
 
-- A questionnaire on your background and interest
-- Unofficial college transcripts
-- A letter of recommendation
-- Resume/CV
+- answer questions about your **background and interest**
+- provide an email address of a faculty member who will submit a **recommendation letter** for you
+- upload your **unofficial college transcripts**
+- upload your **resume/CV**

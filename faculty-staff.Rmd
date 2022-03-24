@@ -1,0 +1,65 @@
+---
+title: "Facult and Staff"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+
+<div>
+<h2 id="faculty">Co-Directors</h2>
+<table>
+<colgroup>
+<col style="width: 48%" />
+<col style="width: 51%" />
+</colgroup>
+<thead>
+<tr class="header">
+
+<th><img src="images/vladimir-minin.jpeg" class="rounded-circle center mx-auto d-block" alt="Headshot of Professor Minin. A main with light brown hair and blue eyes" style="width:200px; margin-right;40%; margin-left:10%; display:block;"></th>
+<th><img src="images/mine-dogucu.jpeg" class="rounded-circle center mx-auto d-block" alt="Headshot of Professor Dogucu. A woman with curly, short, ear-length hair with green eyes and red lipstick." style="width:200px; margin-right;40%; margin-left:10%; display:block;"></th>
+
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Dr. Vladimir Minin</td>
+<td>Dr. Mine Dogucu</td>
+
+</tr>
+
+<hr>
+<tr class="header">
+
+<th><img src="images/dan-gillen.jpeg" class="rounded-circle center mx-auto d-block" alt="Headshot of Professor Gillen. A main with light brown hair and blue eyes" style="width:200px; margin-right;40%; margin-left:10%; display:block;"></th>
+<th><img src="images/babak-shahbaba.jpeg" class="rounded-circle center mx-auto d-block" alt="Headshot of Professor Dogucu. A woman with curly, short, ear-length hair with green eyes and red lipstick." style="width:200px; margin-right;40%; margin-left:10%; display:block;"></th>
+
+</tr>
+</tbody>
+
+<tr class="odd">
+<td>Dr. Daniel Gillen</td>
+<td>Dr. Babak Shahbaba</td>
+
+</tr>
+</table>
+<h2 id="teaching-assistants-tas">Instructors</h2>
+<table>
+
+<tr class="header">
+To be announced.
+
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<!--radix_placeholder_article_footer-->
+<!--/radix_placeholder_article_footer-->
+</div>
+
+<div class="d-appendix">
+</div>
+

@@ -1,12 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter');
+
+
 *{
  font-size: 100%;
- font-family: Helvetica;
+ font-family: "Bitter";
 }
 
 
 html {
   /*-- Main font sizes --*/
-  --title-size:      50px;
+  --title-size:      40px;
   --body-size:       1.06rem;
   --code-size:       14px;
   --aside-size:      12px;
@@ -16,17 +19,16 @@ html {
 
 
 .distill-site-header {
-  --title-size:       18px;    
+  --title-size:       20px;    
   --text-color:       whitesmoke; /* edited */
-  --text-size:        15px;
+  --text-size:        18px;
   --hover-color:      whitesmoke; /* edited */
-  --bkgd-color:       #9c1e03; /* edited */
+  --bkgd-color:       #0064a4; /* edited */
 }
 
 
 hr{
   border: 1px solid #fc917a;
-
 }
 
 tr:nth-child(even) {

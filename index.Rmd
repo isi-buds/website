@@ -1,10 +1,8 @@
 ---
-title: "ISI-BUDS"
-description: |
-  Irvine Summer Institute in Biostatistics and Undergraduate Data Science
+title: "ISI-BUDS 2022"
+description: Irvine Summer Institute in Biostatistics and Undergraduate Data Science <br> (July 11 - August 28, 2022)
 site: distill::distill_website
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
@@ -15,20 +13,16 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
 ```
-
 ![](images/ISI-Buds-homepage-graphicv1.png){width="100%"}
 
-ISI-BUDS is a six-week summer program in biostatistics and biomedical data science. 
-
-More info about the program content.
-More info about financial support.
+ISI-BUDS is a six-week summer program introducing undergraduate students to modern methodology and practice of biostatistics and data science. The program will highlight applications in cutting
+edge biomedical research, will train students in fundamentals of biostatistics, data science, and computing, and will culminate in a team project co-supervised by statisticians and biomedical scientists.
 
 
-Check [requirements](requirements.html) to see if you qualify for the program. If you do, you may submit your [application](). We strongly encourage applications from .....
+Check your eligibility and apply [here](requirements.html). 
+We strongly encourage applications from students from historically excluded groups.
 
 ## Important Dates
-
-Applications open - March 15
 
 Applications due - May 1
 

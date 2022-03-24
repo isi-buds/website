@@ -1,5 +1,5 @@
 ---
-title: "Facult and Staff"
+title: "Faculty and Staff"
 site: distill::distill_website
 ---
 
@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <thead>
 <tr class="header">
 
-<th><img src="images/vladimir-minin.jpeg" class="rounded-circle center mx-auto d-block" alt="Headshot of Professor Minin. A main with light brown hair and blue eyes" style="width:200px; margin-right;40%; margin-left:10%; display:block;"></th>
+<th><img src="images/vladimir-minin.jpeg" class="rounded-circle center mx-auto d-block" alt="Headshot of Professor Minin. A man with light brown hair and blue eyes" style="width:200px; margin-right;40%; margin-left:10%; display:block;"></th>
 <th><img src="images/mine-dogucu.jpeg" class="rounded-circle center mx-auto d-block" alt="Headshot of Professor Dogucu. A woman with curly, short, ear-length hair with green eyes and red lipstick." style="width:200px; margin-right;40%; margin-left:10%; display:block;"></th>
 
 </tr>
@@ -34,7 +34,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <tr class="header">
 
-<th><img src="images/dan-gillen.jpeg" class="rounded-circle center mx-auto d-block" alt="Headshot of Professor Gillen. A main with light brown hair and blue eyes" style="width:200px; margin-right;40%; margin-left:10%; display:block;"></th>
+<th><img src="images/dan-gillen.jpeg" class="rounded-circle center mx-auto d-block" alt="Headshot of Professor Gillen. A man with light brown hair and blue eyes" style="width:200px; margin-right;40%; margin-left:10%; display:block;"></th>
 <th><img src="images/babak-shahbaba.jpeg" class="rounded-circle center mx-auto d-block" alt="Headshot of Professor Dogucu. A woman with curly, short, ear-length hair with green eyes and red lipstick." style="width:200px; margin-right;40%; margin-left:10%; display:block;"></th>
 
 </tr>

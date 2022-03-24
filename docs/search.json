@@ -1,11 +1,11 @@
 {
   "articles": [
     {
-      "path": "faq.html",
-      "title": "Frequently Asked Questions",
+      "path": "faculty-staff.html",
+      "title": "Facult and Staff",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-03-23T21:20:15-07:00"
+      "contents": "\n\n\nCo-Directors\n\n\n\n\n\n\nDr. Vladimir Minin\n\n\nDr. Mine Dogucu\n\n\n\n\n\n\nDr. Daniel Gillen\n\n\nDr. Babak Shahbaba\n\n\nInstructors\n\nTo be announced.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2022-03-23T21:37:51-07:00"
     },
     {
       "path": "index.html",

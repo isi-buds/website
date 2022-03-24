@@ -11,6 +11,6 @@ navbar:
     - text: "Apply"
       href: requirements.html
     - text: "Faculty/Staff"
-      href: faculty_staff.html
+      href: faculty-staff.html
   
 output: distill::distill_article

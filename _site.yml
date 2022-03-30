@@ -12,5 +12,7 @@ navbar:
       href: requirements.html
     - text: "Faculty/Staff"
       href: faculty-staff.html
+    - icon: fa-solid fa-envelope
+      href: "mailto:isi-buds@ics.uci.edu"
   
 output: distill::distill_article

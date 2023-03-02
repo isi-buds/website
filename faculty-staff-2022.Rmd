@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <tr class="odd">
 <td>Dr. Mine Dogucu</td>
 <td>Dr. Daniel Gillen</td>
-<td>Dr. Vladimir Minin</td>
+<td>Dr. Volodymyr Minin</td>
 <td>Dr. Babak Shahbaba</td>
 </tr>
 
@@ -73,7 +73,7 @@ knitr::opts_chunk$set(echo = FALSE)
 </tr>
 
 <tr class="odd">
-<td>Dr. Vladimir Minin</td>
+<td>Dr. Volodymyr Minin</td>
 <td>Dr. Babak Shahbaba</td>
 <td>Dr. Zhaoxia Yu</td>
 </tr>

@@ -22,7 +22,7 @@ edge biomedical research, will train students in fundamentals of biostatistics, 
 
 - up to $500 to cover travel expenses
 - free housing that includes a meal plan 
-- $1000 stipend for incidental expenses
+- $1,000 stipend for incidental expenses
 
 
 **Application**: check your eligibility and apply [here](apply.html). 
@@ -38,4 +38,6 @@ Results announced (on a rolling basis) - starting April 14
 
 ISI-BUDS dates - July 10 - Aug 18
 
+## ISI-BUDS 2022
 
+To learn about the inagural ISI-BUDS that took place in Summer 2022, take a look at the [news article](https://www.stat.uci.edu/undergraduates-conduct-biostatistics-research-at-new-summer-institute-at-uci/) that highlights describes institute activities, research projects, and student experiences.

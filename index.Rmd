@@ -28,7 +28,7 @@ edge biomedical research, will train students in fundamentals of biostatistics, 
 **Application**: check your eligibility and apply [here](apply.html). 
 We strongly encourage applications from students from historically excluded groups.
 
-**Funding**: ISI-BUDS is suppored by the National Institute Of Allergy And Infectious Diseases of the National Institutes of Health under Award Number R25AI170491, as one of the Summer Institutes in Biostatistics (SIBS) and Data Science. To learn about other SIBS visit [the program webpage](https://www.nhlbi.nih.gov/grants-and-training/summer-institute-biostatistics). 
+**Funding**: ISI-BUDS is supported by the National Institute Of Allergy And Infectious Diseases of the National Institutes of Health under Award Number R25AI170491, as one of the Summer Institutes in Biostatistics (SIBS) and Data Science. To learn about other SIBS visit [the program webpage](https://www.nhlbi.nih.gov/grants-and-training/summer-institute-biostatistics). 
 
 ## Important Dates
 

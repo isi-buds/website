@@ -1,5 +1,5 @@
 ---
-title: "ISI-BUDS 2024"
+title: "ISI-BUDS 2025"
 description: Irvine Summer Institute in Biostatistics and Undergraduate Data Science <br> (June 23 - August 1, 2025)
 site: distill::distill_website
 ---

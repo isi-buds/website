@@ -1,5 +1,5 @@
 ---
-title: "Faculty and Staff (2024 Program)"
+title: "Faculty and Staff (2025 Program)"
 site: distill::distill_website
 ---
 

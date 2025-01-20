@@ -1,6 +1,6 @@
 ---
-title: "ISI-BUDS 2023"
-description: Irvine Summer Institute in Biostatistics and Undergraduate Data Science <br> (July 10 - August 18, 2023)
+title: "ISI-BUDS 2024"
+description: Irvine Summer Institute in Biostatistics and Undergraduate Data Science <br> (June 23 - August 1, 2025)
 site: distill::distill_website
 ---
 ```{r setup, include=FALSE}
@@ -28,16 +28,18 @@ edge biomedical research, will train students in fundamentals of biostatistics, 
 **Application**: check your eligibility and apply [here](apply.html). 
 We strongly encourage applications from students from historically excluded groups.
 
-**Funding**: ISI-BUDS is suppored by the National Institute Of Allergy And Infectious Diseases of the National Institutes of Health under Award Number R25AI170491, as one of the Summer Institutes in Biostatistics (SIBS) and Data Science. To learn about other SIBS visit [the program webpage](https://www.nhlbi.nih.gov/grants-and-training/summer-institute-biostatistics). 
+**Funding**: ISI-BUDS is supported by the National Institute Of Allergy And Infectious Diseases of the National Institutes of Health under Award Number R25AI170491, as one of the Summer Institutes in Biostatistics (SIBS) and Data Science. To learn about other SIBS visit [the program webpage](https://www.nhlbi.nih.gov/grants-and-training/summer-institute-biostatistics). 
 
 ## Important Dates
 
-Applications due - March 24
+Applications due - March 14, 2025
 
-Results announced (on a rolling basis) - starting April 14
+Results announced (on a rolling basis) - starting April 15
 
-ISI-BUDS dates - July 10 - Aug 18
+ISI-BUDS dates - June 23 - Aug 1, 2025
 
-## ISI-BUDS 2022
+Applications will be reviewed on a rolling basis with the preference given to those submitted by Friday, March 15th, 2024
 
-To learn about the inagural ISI-BUDS that took place in Summer 2022, take a look at the [news article](https://www.stat.uci.edu/undergraduates-conduct-biostatistics-research-at-new-summer-institute-at-uci/) that highlights describes institute activities, research projects, and student experiences.
+## ISI-BUDS 2022 and 2023
+
+To learn about the ISI-BUDS program, you can take a look at the news articles about [2022 program](https://www.stat.uci.edu/undergraduates-conduct-biostatistics-research-at-new-summer-institute-at-uci/) and [2023 program](https://ics.uci.edu/2023/09/24/uci-summer-institute-trains-undergraduates-in-biostatistics-and-data-science/) that describe institute activities, research projects, and student experiences.

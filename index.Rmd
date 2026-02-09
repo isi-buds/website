@@ -1,6 +1,6 @@
 ---
-title: "ISI-BUDS 2025"
-description: Irvine Summer Institute in Biostatistics and Undergraduate Data Science <br> (June 23 - August 1, 2025)
+title: "ISI-BUDS 2026"
+description: Irvine Summer Institute in Biostatistics and Undergraduate Data Science <br> (June 22 - July 31, 2026)
 site: distill::distill_website
 ---
 ```{r setup, include=FALSE}
@@ -32,13 +32,13 @@ We strongly encourage applications from students from historically excluded grou
 
 ## Important Dates
 
-Applications due - March 14, 2025
+Applications due - March 13, 2026
 
-Results announced (on a rolling basis) - starting April 15
+Results announced (on a rolling basis) - starting April 20
 
-ISI-BUDS dates - June 23 - Aug 1, 2025
+ISI-BUDS dates - June 22 - July 31, 2026
 
-Applications will be reviewed on a rolling basis with the preference given to those submitted by Friday, March 14th, 2025
+Applications will be reviewed on a rolling basis with the preference given to those submitted by Friday, March 13th, 2026
 
 ## ISI-BUDS 2022 and 2023
 

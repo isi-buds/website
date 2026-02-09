@@ -1,5 +1,5 @@
 ---
-title: "Faculty and Staff (2025 Program)"
+title: "Faculty and Staff (2026 Program)"
 site: distill::distill_website
 ---
 
@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-<!--The list of faculty and staff for ISI-BUDS 2022 can be found [here](faculty-staff-2022.html).--> The full list of faculty and staff for ISI-BUDS 2025 will be announced at a later date. 
+<!--The list of faculty and staff for ISI-BUDS 2022 can be found [here](faculty-staff-2022.html).--> The full list of faculty and staff for ISI-BUDS 2026 will be announced at a later date. 
 
 <h2 id="faculty">Co-Directors</h2>
 <table>

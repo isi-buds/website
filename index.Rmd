@@ -3,7 +3,7 @@ title: "ISI-BUDS 2026"
 description: Irvine Summer Institute in Biostatistics and Undergraduate Data Science <br> (June 22 - July 31, 2026)
 site: distill::distill_website
 ---
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, fig.alt="This image is a grid of six distinct photographs showcasing the modern architecture and campus life of the University of California, Irvine (UCI)."}
 knitr::opts_chunk$set(echo = FALSE)
 
 # Learn more about creating websites with Distill at:

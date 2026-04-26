@@ -3,7 +3,7 @@ title: "ISI-BUDS 2026"
 description: Irvine Summer Institute in Biostatistics and Undergraduate Data Science <br> (June 22 - July 31, 2026)
 site: distill::distill_website
 ---
-```{r setup, include=FALSE, fig.alt="This image is a grid of six distinct photographs showcasing the modern architecture and campus life of the University of California, Irvine (UCI)."}
+```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
 # Learn more about creating websites with Distill at:
@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
 ```
-![](images/ISI-Buds-homepage-graphicv1.png){width="100%"}
+![](images/ISI-Buds-homepage-graphicv1.png){width="100%" fig-alt="A grid of six photos showing UCI's modern architecture, Peter the Anteater statue, and campus life."}
 
 ISI-BUDS is a six-week summer program introducing undergraduate students to modern methodology and practice of biostatistics and data science. The program will highlight applications in cutting
 edge biomedical research, will train students in fundamentals of biostatistics, data science, and computing, and will culminate in a team project co-supervised by statisticians and biomedical scientists.
